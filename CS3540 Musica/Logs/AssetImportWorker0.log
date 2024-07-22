@@ -461,3 +461,1457 @@ Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b459407
  -> (artifact id: 'a7823f4e4b633e9c50ae0e744b564985') in 0.100804 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 601.414518 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c65870e675e4b8551cab96e07a85eedf') in 0.019487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 18.612945 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f7b11350217d680c177ece3036f3203e') in 0.013776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.816237 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2848c1fb1dbb84269d5a4de0058da4f5') in 0.014094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1283.691063 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(ef8b13a01f109a145920194fca6b550e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(ef8b13a01f109a145920194fca6b550e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269ec656238e661ce6ba99c7281b7532') in 0.000812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.913539 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.990760 seconds.
+  path: Assets/Scenes/ImportedArtAssets
+  artifactKey: Guid(a65faf862bc17a940877bacca7eba2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ImportedArtAssets using Guid(a65faf862bc17a940877bacca7eba2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5611700264b70a4b3ac055db1650ce') in 0.000509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.971838 seconds.
+  path: Assets/Scenes/ImportedArtAssets
+  artifactKey: Guid(a65faf862bc17a940877bacca7eba2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/ImportedArtAssets using Guid(a65faf862bc17a940877bacca7eba2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1729c2814cb1e7598f06cb96a0e2b640') in 0.017335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.604150 seconds.
+  path: Assets/ImportedArtAssets
+  artifactKey: Guid(a65faf862bc17a940877bacca7eba2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets using Guid(a65faf862bc17a940877bacca7eba2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd3eaa1b76097da2c1e4a0e6ef7410124') in 0.013411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 36.395352 seconds.
+  path: Assets/Scenes/Bedroom V1.unity
+  artifactKey: Guid(6e6ec907599756b45aac178cf8da269c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Bedroom V1.unity using Guid(6e6ec907599756b45aac178cf8da269c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91f8ff9016ef63dcf1a82f7cdd371e3') in 0.000557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.965292 seconds.
+  path: Assets/Scenes/Bedroom V1.unity
+  artifactKey: Guid(6e6ec907599756b45aac178cf8da269c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Bedroom V1.unity using Guid(6e6ec907599756b45aac178cf8da269c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6055665c16ab6120f6a64d4d45a90247') in 0.012763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 134.584532 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Hair 3.mat
+  artifactKey: Guid(5605e5920a541bf408757aac3099af95) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Hair 3.mat using Guid(5605e5920a541bf408757aac3099af95) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f68da219a3081181f4598048852f05b3') in 0.116718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Distant Lands
+  artifactKey: Guid(2551adea54c1e1d469d5317a895cdbd8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands using Guid(2551adea54c1e1d469d5317a895cdbd8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e5ebf87abc76eb0db7b369ea3de23abe') in 0.012987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 2.mat
+  artifactKey: Guid(95b4fabaf92645b47b01d508061fd389) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 2.mat using Guid(95b4fabaf92645b47b01d508061fd389) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2b15e3b39a6204d6a1bcaf91cef1f192') in 0.015630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 3.prefab
+  artifactKey: Guid(179834d73a2f4d74f8db9c0303c8e0ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 3.prefab using Guid(179834d73a2f4d74f8db9c0303c8e0ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c55dd26405b80c6c7de13424bfe3f123') in 0.038542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 106
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 1.prefab
+  artifactKey: Guid(85c0a17cb59c1814aa0c13c6a6662565) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 1.prefab using Guid(85c0a17cb59c1814aa0c13c6a6662565) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ef30a64e7d61420ac9513da168417ada') in 0.019135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 106
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 3.prefab
+  artifactKey: Guid(59b9fc048e4b5184bbd6bb8efc356091) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 3.prefab using Guid(59b9fc048e4b5184bbd6bb8efc356091) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b192838a2c0a7006dc40bdcbfcab5376') in 0.021847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Mesh
+  artifactKey: Guid(412a246803a3afc4dbab4c83f6d67e66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Mesh using Guid(412a246803a3afc4dbab4c83f6d67e66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bfd4fb6e809bac87fae32208d7e023d0') in 0.012493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Skin 1.mat
+  artifactKey: Guid(0cb07277ecdcb6547ad06f13b33b4736) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Skin 1.mat using Guid(0cb07277ecdcb6547ad06f13b33b4736) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f8488685ea0e76418e1a89c0cf7dc5f5') in 0.018127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 4.prefab
+  artifactKey: Guid(bda9b0031f8f38e4e98e7780f1fea9b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 4.prefab using Guid(bda9b0031f8f38e4e98e7780f1fea9b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7d4699742a54a950b99e435555256a61') in 0.019374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Mesh/Female Hands.fbx
+  artifactKey: Guid(d9979e9ec1784f8418ec3118f7edb3b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Mesh/Female Hands.fbx using Guid(d9979e9ec1784f8418ec3118f7edb3b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '95e9a36ab73fce2daa354a5e9f8f7d40') in 0.070880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Shirt 4.mat
+  artifactKey: Guid(a4837fa2db3044f4ebddda971ae619f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Shirt 4.mat using Guid(a4837fa2db3044f4ebddda971ae619f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6ca22559f62a98c10341313a5dd39e94') in 0.019061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 1.mat
+  artifactKey: Guid(f64b913b9c029c64686fe685362dc010) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 1.mat using Guid(f64b913b9c029c64686fe685362dc010) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '652ec91a8bf9c4fa72d690c2983bd5f8') in 0.016170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 4.prefab
+  artifactKey: Guid(4f339f6ad8704954aac9c2363443a600) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 4.prefab using Guid(4f339f6ad8704954aac9c2363443a600) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '476d3f6e5fefad70d9d6496c6c721e2a') in 0.017537 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 110
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Distant Lands/Free Characters/Scenes/Demo.unity
+  artifactKey: Guid(b2d389981e26b0a4c82318e8f7bab258) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Scenes/Demo.unity using Guid(b2d389981e26b0a4c82318e8f7bab258) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cf5323ac3e7a34e30cf7a09eb7c83590') in 0.015088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Male 3.prefab
+  artifactKey: Guid(619f88d1e87438a43a166f80364f0fd4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Male 3.prefab using Guid(619f88d1e87438a43a166f80364f0fd4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c83eb98a68331b298e9e61cb03b445f9') in 0.019138 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 146
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Mesh/Male Hands.fbx
+  artifactKey: Guid(6ff98783d10689e4199627949324d20f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Mesh/Male Hands.fbx using Guid(6ff98783d10689e4199627949324d20f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7b64ae534883fd6e1bb03dd1a6edcea2') in 0.045448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 146
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 3.mat
+  artifactKey: Guid(6425d2b4aa9744543a7391465ae1e706) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Fabric 3.mat using Guid(6425d2b4aa9744543a7391465ae1e706) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5f3002d4131425f1a29d2bfdb8772470') in 0.017177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Distant Lands/Free Characters
+  artifactKey: Guid(a8efad8ac13f7114b900a1b87053a680) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters using Guid(a8efad8ac13f7114b900a1b87053a680) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1f10939df5e35a6e317201117f2d4fcd') in 0.012097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Distant Lands/Free Characters/Scenes
+  artifactKey: Guid(7a5349f29e99a0a438e2eeda0eecf5ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Scenes using Guid(7a5349f29e99a0a438e2eeda0eecf5ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2434e917833786881205a52850aec136') in 0.012325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Mesh/Male.fbx
+  artifactKey: Guid(8c28075e6e1a5c34ca899fd618879dd4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Mesh/Male.fbx using Guid(8c28075e6e1a5c34ca899fd618879dd4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8eb5daa642399f1114ee1cac7d32fb6b') in 0.061966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 110
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 2.prefab
+  artifactKey: Guid(3ef454cc035adc1489a9aec1f5a10d55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Female 2.prefab using Guid(3ef454cc035adc1489a9aec1f5a10d55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e0b582fe3f4db9f7231759483095a24b') in 0.032769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 3.prefab
+  artifactKey: Guid(405ce37bb502f094e89d5dce904423c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 3.prefab using Guid(405ce37bb502f094e89d5dce904423c3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '05abe8b3c94347e56cab430fbf90cc10') in 0.039089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 110
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 4.prefab
+  artifactKey: Guid(1a45f8a6713981442bc18906df81a7fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 4.prefab using Guid(1a45f8a6713981442bc18906df81a7fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '70a75a3e6dfdc15cec119e63c55ea645') in 0.029721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 106
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Distant Lands/Free Characters/Contents/Materials/Boots.mat
+  artifactKey: Guid(6b75266228de9b54cb2410e1e91ed2a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Distant Lands/Free Characters/Contents/Materials/Boots.mat using Guid(6b75266228de9b54cb2410e1e91ed2a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '37b16c7afcbe729b2be496ece50a39b9') in 0.017848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.795365 seconds.
+  path: Assets/Furniture_FREE/Prefabs/toy_002.prefab
+  artifactKey: Guid(a9b3dec6c36033744a62441b6a92cd76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/toy_002.prefab using Guid(a9b3dec6c36033744a62441b6a92cd76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4b573e0062b92e9bdc9a1aaee0648ddf') in 0.028138 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Furniture_FREE/Materials/Material.mat
+  artifactKey: Guid(a88ec864e1a9c704f901b331887e870c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Materials/Material.mat using Guid(a88ec864e1a9c704f901b331887e870c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '30a1aecaf159869b4786986a31de18a3') in 0.027558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Furniture_FREE/Prefabs/dresser_001.prefab
+  artifactKey: Guid(2ba5ac2de7ff0764e8874d18fcb4484c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/dresser_001.prefab using Guid(2ba5ac2de7ff0764e8874d18fcb4484c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '14297c284449e7c267941d88348a64aa') in 0.025708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Furniture_FREE/Meshes/dumbbell_002.fbx
+  artifactKey: Guid(cd560a8cb8bd1ec4fb3267ac9441df28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/dumbbell_002.fbx using Guid(cd560a8cb8bd1ec4fb3267ac9441df28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '339eca2789085261f96cf31494dc532d') in 0.028570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Furniture_FREE/Meshes/dish_001.fbx
+  artifactKey: Guid(c35be5ac0e6fada40bc4de937c91e58e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/dish_001.fbx using Guid(c35be5ac0e6fada40bc4de937c91e58e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8136b3c527224b96e0743daed3f17ce5') in 0.026686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Furniture_FREE/Meshes/toy_001.fbx
+  artifactKey: Guid(ed42e3e83a1505c46be371032c205b55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/toy_001.fbx using Guid(ed42e3e83a1505c46be371032c205b55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f4a243ec8630e2ad6a83d5447baa2895') in 0.028895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Furniture_FREE/Meshes/clothes_001.fbx
+  artifactKey: Guid(e0e5aa5f70455564bad4ce315b3b3d83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/clothes_001.fbx using Guid(e0e5aa5f70455564bad4ce315b3b3d83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '684f8996943c9d64679d1d2a383a3fe7') in 0.029988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Furniture_FREE/Meshes/fridge_001.fbx
+  artifactKey: Guid(021213b5eba77904097e0f5aa1a99d72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/fridge_001.fbx using Guid(021213b5eba77904097e0f5aa1a99d72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '875fc2543136153c1037016bb0634a32') in 0.034051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Furniture_FREE/Prefabs/dish_002.prefab
+  artifactKey: Guid(4dd304aacd53d3c4589956b0fca9a8df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/dish_002.prefab using Guid(4dd304aacd53d3c4589956b0fca9a8df) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '37c572ad87bff6ac71a94da8401e5554') in 0.020077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Furniture_FREE/Meshes/tv_wall_001.fbx
+  artifactKey: Guid(58f701239c50ef14494883f16e8383cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/tv_wall_001.fbx using Guid(58f701239c50ef14494883f16e8383cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a53a6fc8af6f4d194f58a7cec2f365d8') in 0.032259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Furniture_FREE/Prefabs/dumbbell_002.prefab
+  artifactKey: Guid(1279e726d2b09334ca77abe228aa5a47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/dumbbell_002.prefab using Guid(1279e726d2b09334ca77abe228aa5a47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a0bfbad14418ed4a6773c3e311934fa0') in 0.020495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Furniture_FREE/Prefabs/coffee_machine_001.prefab
+  artifactKey: Guid(29d2ff71ee4088643b56e70ff038b92f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/coffee_machine_001.prefab using Guid(29d2ff71ee4088643b56e70ff038b92f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '15b5b08f4e021659940fb74ee262c4b8') in 0.022733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Furniture_FREE/Meshes/training_item_001.fbx
+  artifactKey: Guid(229c147ca36ed9747a2bdb66dfe23a78) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/training_item_001.fbx using Guid(229c147ca36ed9747a2bdb66dfe23a78) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eab7049546a6fcf6c91d00289c14b5cd') in 0.027751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Furniture_FREE/Prefabs/box_001.prefab
+  artifactKey: Guid(23e60ffe52c59f64ab40ec6e6ce36781) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/box_001.prefab using Guid(23e60ffe52c59f64ab40ec6e6ce36781) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '52473b2c75b8a785f983312f6a23169e') in 0.024366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Furniture_FREE/Prefabs/camera_001.prefab
+  artifactKey: Guid(74ecb4ff10fc70546aa59fc2118a8502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/camera_001.prefab using Guid(74ecb4ff10fc70546aa59fc2118a8502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ac5e2329839f9db08de62cb4192de53d') in 0.020644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Furniture_FREE/Prefabs/flower_001.prefab
+  artifactKey: Guid(625c63d1d4491964d8bdca1e8140e3c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/flower_001.prefab using Guid(625c63d1d4491964d8bdca1e8140e3c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b580e65a106bf7cf600dfd8e831aa97d') in 0.021597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Furniture_FREE/Meshes/box_001.fbx
+  artifactKey: Guid(c6ee65a17262c4b4595ed6f80b6a2a65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/box_001.fbx using Guid(c6ee65a17262c4b4595ed6f80b6a2a65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '34dc04aa83a6c945310fe68a1ef83b04') in 0.028623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Furniture_FREE/Prefabs/lounge_chair_001.prefab
+  artifactKey: Guid(4c4b2b0935db72a45a61b3a6e86d95bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/lounge_chair_001.prefab using Guid(4c4b2b0935db72a45a61b3a6e86d95bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cf5778d90b6c740348613910f6cb201c') in 0.020868 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Furniture_FREE/Meshes/closet_002.fbx
+  artifactKey: Guid(f057f2866f4b8964799fed1871693e10) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/closet_002.fbx using Guid(f057f2866f4b8964799fed1871693e10) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6bb8797824d245cc0c2196288f965596') in 0.027416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Furniture_FREE/Prefabs/fridge_001.prefab
+  artifactKey: Guid(a457d02d5bf10c9459386d5931ca3a94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/fridge_001.prefab using Guid(a457d02d5bf10c9459386d5931ca3a94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5b43b02a70538fe993a4ab983b2aea37') in 0.022665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Furniture_FREE/Meshes/camera_001.fbx
+  artifactKey: Guid(dd07248fa5962df43854a0f731b6b845) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/camera_001.fbx using Guid(dd07248fa5962df43854a0f731b6b845) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '754b48866bb90570c0fd4ea572478ab7') in 0.025308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Furniture_FREE/Prefabs/kitchen_chair_001.prefab
+  artifactKey: Guid(528a0e588f6fa5447928329240509219) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/kitchen_chair_001.prefab using Guid(528a0e588f6fa5447928329240509219) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7bdbb7ea0a2bf5164031cfb495fca617') in 0.045497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Furniture_FREE/Prefabs/bed_001.prefab
+  artifactKey: Guid(82f624b1964c7ba4fb21eae95f185a9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/bed_001.prefab using Guid(82f624b1964c7ba4fb21eae95f185a9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '94e922ee524871ac02dcc7f6cb217d7f') in 0.051887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Furniture_FREE/Prefabs/training_item_001.prefab
+  artifactKey: Guid(ab145dca38e163c4f83421188439db38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Prefabs/training_item_001.prefab using Guid(ab145dca38e163c4f83421188439db38) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0edbdf639a2df60c12f36c34c5363e9a') in 0.023897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Furniture_FREE/Meshes/kitchen_sink_001.fbx
+  artifactKey: Guid(627220fed965f4544a5a91566c9995d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Furniture_FREE/Meshes/kitchen_sink_001.fbx using Guid(627220fed965f4544a5a91566c9995d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd22e1349adf5610a62454b0ab6af8146') in 0.034198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 6.028583 seconds.
+  path: Assets/Low Poly Furniture/Models/Big Mouse.fbx
+  artifactKey: Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Big Mouse.fbx using Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2df895ac2225ababc344aa800c13472e') in 0.033328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe/Standart Wardrobe.prefab
+  artifactKey: Guid(945d4f9099e1e9044897b000007b6a91) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe/Standart Wardrobe.prefab using Guid(945d4f9099e1e9044897b000007b6a91) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '99f14d1b9ef9b80e76f57503e0bea0cf') in 0.023697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Low Poly Furniture/Models/Purple Book.fbx
+  artifactKey: Guid(e9bffd5ceb3415b40b0b7dcae0ae6a03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Purple Book.fbx using Guid(e9bffd5ceb3415b40b0b7dcae0ae6a03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec0ff127c8ecde8a851bc77bcb9581ad') in 0.038354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase/Pink Vase.prefab
+  artifactKey: Guid(b2f6d75dfcfd9154ca36c2fc7880137c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase/Pink Vase.prefab using Guid(b2f6d75dfcfd9154ca36c2fc7880137c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'da12938927a646435ce2f103facf3f90') in 0.020879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_light.exr
+  artifactKey: Guid(baa665f557c0ccc458b43aa9d927b3c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Demos/Demo_Assets/Lightmap-0_comp_light.exr using Guid(baa665f557c0ccc458b43aa9d927b3c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd11eb6d9cb57e75079025e536647d62b') in 0.078837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Low Poly Furniture/Models/Standart Bookshelf.fbx
+  artifactKey: Guid(de28c4b7898423c439068dd7f02263cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Standart Bookshelf.fbx using Guid(de28c4b7898423c439068dd7f02263cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a6813f8c9b56a0a3acec02d9989dd4e3') in 0.029593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Low Poly Furniture/Models/Blue Vase.fbx
+  artifactKey: Guid(824c8db400013dd4bb682dbbe289f48a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Blue Vase.fbx using Guid(824c8db400013dd4bb682dbbe289f48a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e5cd940054e83d61057d5c3196a3341b') in 0.032370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Low Poly Furniture/Textures/ty-shining-gems-24-32x.png
+  artifactKey: Guid(d27af448751b9d3468d8fb5e928470fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Textures/ty-shining-gems-24-32x.png using Guid(d27af448751b9d3468d8fb5e928470fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2c24bef88f62bd6f483e84e2bf041b75') in 0.053923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Keyboard/Gaming Keyboard.prefab
+  artifactKey: Guid(bb732cdb57d31d540bfe20144ec7aefa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Keyboard/Gaming Keyboard.prefab using Guid(bb732cdb57d31d540bfe20144ec7aefa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b9e865e2b91438571f566913fd2244d3') in 0.019502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Low Poly Furniture/Models/Blue Flower.fbx
+  artifactKey: Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Blue Flower.fbx using Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0d453903e46df3684ffc4361597fef2a') in 0.039961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Low Poly Furniture/Models/Couch.fbx
+  artifactKey: Guid(09667bf18d5e2f5489accb5ca7e3b7bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Couch.fbx using Guid(09667bf18d5e2f5489accb5ca7e3b7bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '82901be386be8e98a3ae8f7e27af80a1') in 0.033119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Low Poly Furniture/Textures
+  artifactKey: Guid(c3df98cba2adbaa4b9e18aac5eec7155) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Textures using Guid(c3df98cba2adbaa4b9e18aac5eec7155) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '57a17cd7fa396bc736577eb1e6841884') in 0.015208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Low Poly Furniture/Models/Standart Chair.fbx
+  artifactKey: Guid(ac9176d8a9cecdc44a0e387e329ee31c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Standart Chair.fbx using Guid(ac9176d8a9cecdc44a0e387e329ee31c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'faada6e5bfd571a56246474243c8c8a7') in 0.036451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Low Poly Furniture/Models
+  artifactKey: Guid(f16ed09c01e01304abde799227876625) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models using Guid(f16ed09c01e01304abde799227876625) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6a6c7ab4fb910f6b898de2d2a5171ac') in 0.017573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Keyboard
+  artifactKey: Guid(551249aba3a8f794b8d9659357dd3753) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Keyboard using Guid(551249aba3a8f794b8d9659357dd3753) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c2db26877e062b36bc43cf228477a74f') in 0.015863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab
+  artifactKey: Guid(88d126b4de386094c87b9d404e6b833d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab using Guid(88d126b4de386094c87b9d404e6b833d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9bc6c0ad80dfd3c6fa2e2cc55a53b261') in 0.023158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Low Poly Furniture/Models/Gaming Screen.fbx
+  artifactKey: Guid(61d2840a32922d642b60bd582e7d4554) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Gaming Screen.fbx using Guid(61d2840a32922d642b60bd582e7d4554) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1a9ca4328819c1b8a5710a2fec3e174a') in 0.037810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/Rectangle Table.prefab
+  artifactKey: Guid(00e7c20b7ef3bcb49a714b8924a5524b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/Rectangle Table.prefab using Guid(00e7c20b7ef3bcb49a714b8924a5524b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '10f10aaab4882dc48b39824d727c33a6') in 0.017801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Low Poly Furniture/Demos/Materials/Ground_DemoScene.mat
+  artifactKey: Guid(4a110d44e0f47da4c8ee0e6793d330a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Demos/Materials/Ground_DemoScene.mat using Guid(4a110d44e0f47da4c8ee0e6793d330a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd9d30452c1a5bc78b2bf49952afa4a2a') in 0.018602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Lamp/Cylinder Lamp.prefab
+  artifactKey: Guid(0478957e3fecb2e40a8300bd5e8b3fb7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Lamp/Cylinder Lamp.prefab using Guid(0478957e3fecb2e40a8300bd5e8b3fb7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3de145301339e9e83d058564ff1f195f') in 0.021969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Low Poly Furniture/Models/Double Bed.fbx
+  artifactKey: Guid(e81c5345af796424b8bed30fdfaa6b09) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Models/Double Bed.fbx using Guid(e81c5345af796424b8bed30fdfaa6b09) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '313341c274edff88f9253124d404fef9') in 0.039088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Standart Chair.prefab
+  artifactKey: Guid(f22bfcebbb016164480f1e0f1f6915b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Standart Chair.prefab using Guid(f22bfcebbb016164480f1e0f1f6915b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f9938fbbe790a310b98269df0b62c7a4') in 0.021232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Mouse
+  artifactKey: Guid(fd0508c1b00f58b41a4bb46b01ad21e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Mouse using Guid(fd0508c1b00f58b41a4bb46b01ad21e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'de6daae9f1f6928b5be4654818b82e72') in 0.014018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe
+  artifactKey: Guid(356a8f4aa643a8b4b8f74bef51d2da15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe using Guid(356a8f4aa643a8b4b8f74bef51d2da15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '22505eb36d03da090aaf3e678350f732') in 0.014171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Thin Chair.prefab
+  artifactKey: Guid(3ca427402f0ef1347adc69f0ba78d0bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Thin Chair.prefab using Guid(3ca427402f0ef1347adc69f0ba78d0bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c468a5ac1c4c72b647b21647073590d0') in 0.019380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Low Poly Furniture/Demos/Demo_Assets/New Lighting Settings.lighting
+  artifactKey: Guid(01e5e7587dcfffb4ab7a4e5ace9ef207) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Demos/Demo_Assets/New Lighting Settings.lighting using Guid(01e5e7587dcfffb4ab7a4e5ace9ef207) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) LightingSettings: switching bake backend from 1 to 2.
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8259740e7e54bd33154fa35cf06d1d08') in 0.033005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Lamp
+  artifactKey: Guid(be54aea9fc9b26d45b01c75691fb7f6f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Lamp using Guid(be54aea9fc9b26d45b01c75691fb7f6f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6dc646903ee1a35b987c364d390e347a') in 0.015735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe/Twin Wardrobe.prefab
+  artifactKey: Guid(3203d32c7186a84419e35d7ce08429da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe/Twin Wardrobe.prefab using Guid(3203d32c7186a84419e35d7ce08429da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4ac123023d988d827cd55d9b04b1293e') in 0.021835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab
+  artifactKey: Guid(ad406b2edb3da9942884b71642b7693b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab using Guid(ad406b2edb3da9942884b71642b7693b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b5f4908c3e40d3b5ff56c428ee6c2862') in 0.022084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase
+  artifactKey: Guid(99700b038f71a4945a15acf8de87b626) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase using Guid(99700b038f71a4945a15acf8de87b626) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50631533e16f35702b037ad84efb62f1') in 0.017762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.765591 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Big Mouse.fbx
+  artifactKey: Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Big Mouse.fbx using Guid(c12191cd2f81c5748b201a73a4608f2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0bd3a5fc024d1824ecffed8b9721771d') in 0.033668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Old Screen.fbx
+  artifactKey: Guid(e4cc1467e2788fa4cac37f127450157c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Old Screen.fbx using Guid(e4cc1467e2788fa4cac37f127450157c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9a3f9348f5c46586449e925c157dfb37') in 0.027966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.451537 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Demos/Demo_Assets/New Lighting Settings.lighting
+  artifactKey: Guid(01e5e7587dcfffb4ab7a4e5ace9ef207) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Demos/Demo_Assets/New Lighting Settings.lighting using Guid(01e5e7587dcfffb4ab7a4e5ace9ef207) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) LightingSettings: switching bake backend from 1 to 2.
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f017c60c9bfa2d94b5e82848c373a578') in 0.025280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Purple Book.prefab
+  artifactKey: Guid(2bd5455a29123e64287c30781ba4c46b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Purple Book.prefab using Guid(2bd5455a29123e64287c30781ba4c46b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f71885fd9057d8fb21c5b45645b42b18') in 0.021107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.460595 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Bed/Single Bed.prefab
+  artifactKey: Guid(1189904b73d88054fa88fa5c364c51f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Bed/Single Bed.prefab using Guid(1189904b73d88054fa88fa5c364c51f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '333a87b1fa656398e57fa1f972097a5e') in 0.033871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Mouse/Small Mouse.prefab
+  artifactKey: Guid(aa7a24ace3c55c247afa56de78afca81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Mouse/Small Mouse.prefab using Guid(aa7a24ace3c55c247afa56de78afca81) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '13b1c93f93614ac7b8e9574445450ff5') in 0.025631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 2.307806 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Demos/Materials/Ground_AllAssetsScene.mat
+  artifactKey: Guid(a365d57dfc187de49bca6e05c8483093) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Demos/Materials/Ground_AllAssetsScene.mat using Guid(a365d57dfc187de49bca6e05c8483093) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3b67231e1c3373f9c9baca5dc2be5341') in 0.018736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Screen/Gaming Screen.prefab
+  artifactKey: Guid(72cea4de7aef0894c84d3b014858e185) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Screen/Gaming Screen.prefab using Guid(72cea4de7aef0894c84d3b014858e185) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'efc5b0d413c1e60baa907cd81b01f48f') in 0.020708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab
+  artifactKey: Guid(ad406b2edb3da9942884b71642b7693b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab using Guid(ad406b2edb3da9942884b71642b7693b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '92f849baca72f1905d8ffd899e9859b0') in 0.017486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.447917 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Blue Book.prefab
+  artifactKey: Guid(68fd4dcfbe5154d4e89043e3df713c11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Blue Book.prefab using Guid(68fd4dcfbe5154d4e89043e3df713c11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '632582cba042a056ff9a0b4ab317d72a') in 0.036315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/coffee_table_001.prefab
+  artifactKey: Guid(9f9cd54077faf65438d05b189cdde7f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/coffee_table_001.prefab using Guid(9f9cd54077faf65438d05b189cdde7f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ac17ecb7ee1718c4c1c4388f3caee629') in 0.029756 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.435108 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/musical_instrument_001.fbx
+  artifactKey: Guid(1d07df417cf9ab04bbc8f6071741f043) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/musical_instrument_001.fbx using Guid(1d07df417cf9ab04bbc8f6071741f043) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1d94c7e270b2a76db16ac59033fa3fde') in 0.032534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/dish_001.prefab
+  artifactKey: Guid(04d7a2c18c48996478ccd0fa2f0627f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/dish_001.prefab using Guid(04d7a2c18c48996478ccd0fa2f0627f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0983bc09b587a8590f8a9b4a1571f38d') in 0.025814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.446696 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/dresser_001.fbx
+  artifactKey: Guid(fc22d9e1f78546b4b96b9ba402f0464e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/dresser_001.fbx using Guid(fc22d9e1f78546b4b96b9ba402f0464e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a3ba9832364be827a987a0686f6b7e35') in 0.045977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/clothes_002.prefab
+  artifactKey: Guid(c935566373de4944689c3ab2d7f16480) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/clothes_002.prefab using Guid(c935566373de4944689c3ab2d7f16480) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f07cf7096e430ed04ec074fb1e696d1f') in 0.029811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.426137 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/door_frame_001.prefab
+  artifactKey: Guid(2c711d445f487fa49adbf49a47841599) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/door_frame_001.prefab using Guid(2c711d445f487fa49adbf49a47841599) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c9978024730bde1ad20f615b3df15836') in 0.027961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/bathroom_item_001.fbx
+  artifactKey: Guid(a9473316bc1ba3740a1ec3a91ce57660) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/bathroom_item_001.fbx using Guid(a9473316bc1ba3740a1ec3a91ce57660) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a9456bd58e1ddeb06e5bc20faf3f49ac') in 0.042567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 5.646359 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Rectangle Table.fbx
+  artifactKey: Guid(36df2876932ca6b448b29d0333cec2ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Rectangle Table.fbx using Guid(36df2876932ca6b448b29d0333cec2ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '558fdb4bb69c03f85260493e70521ea6') in 0.033917 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Seedling.fbx
+  artifactKey: Guid(b2b7476788d729b49b2e7f709f686d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Seedling.fbx using Guid(b2b7476788d729b49b2e7f709f686d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ed4e7568920b17307f99d47fd8785ce7') in 0.033955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Flower/Blue Flower.prefab
+  artifactKey: Guid(519d9508d15314641a87cd2f280cf85c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Flower/Blue Flower.prefab using Guid(519d9508d15314641a87cd2f280cf85c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df03bb4a5cb7105d3fa844f45f401832') in 0.021707 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/closet_001.fbx
+  artifactKey: Guid(a814d16888f34d740b4c85da09a39d0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/closet_001.fbx using Guid(a814d16888f34d740b4c85da09a39d0f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7cf0a4c84e1371560139740ba63357e0') in 0.027999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Standart Bookshelf.fbx
+  artifactKey: Guid(de28c4b7898423c439068dd7f02263cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Standart Bookshelf.fbx using Guid(de28c4b7898423c439068dd7f02263cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '813bb29e853374b8e951cc078603d2a7') in 0.029648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Vase.fbx
+  artifactKey: Guid(824c8db400013dd4bb682dbbe289f48a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Vase.fbx using Guid(824c8db400013dd4bb682dbbe289f48a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2f0d9f5f623d7eb40ee65d79848f749f') in 0.029568 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Black Book.prefab
+  artifactKey: Guid(9e604626216d36b4bb52967cf3b88713) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Book/Black Book.prefab using Guid(9e604626216d36b4bb52967cf3b88713) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a90c0c1ca844c723abb30f3834a49d4a') in 0.023199 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Chair.fbx
+  artifactKey: Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Chair.fbx using Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '20350bf2b6846c116937a2eee6c4496d') in 0.029598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Black Book.fbx
+  artifactKey: Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Black Book.fbx using Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b8bd53ed1a19ead2404919d67e4bfd44') in 0.035670 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Laptop.fbx
+  artifactKey: Guid(d8ea38793a6bd104aa20d7dc912caba7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Laptop.fbx using Guid(d8ea38793a6bd104aa20d7dc912caba7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4e092a474ac15224edb8fcc22271e3f6') in 0.030381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Keyboard.fbx
+  artifactKey: Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Keyboard.fbx using Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '46f8b416e6af22faaa1988c5181a37fd') in 0.031846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab
+  artifactKey: Guid(88d126b4de386094c87b9d404e6b833d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab using Guid(88d126b4de386094c87b9d404e6b833d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '936ea7c398b57185ae748d74b0662f9e') in 0.024961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/door_001.fbx
+  artifactKey: Guid(d0c8bff756eb229499f2b3a6290a5588) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/door_001.fbx using Guid(d0c8bff756eb229499f2b3a6290a5588) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ef4e9dece2eaf40afc50e9bb31b691a') in 0.030672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Book.fbx
+  artifactKey: Guid(bc09309e8485efb4f988398655898bb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Book.fbx using Guid(bc09309e8485efb4f988398655898bb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd3966251dc844db94327bf05d3cb3b2f') in 0.031406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Larger Case.fbx
+  artifactKey: Guid(663a9601d0ae2274a9c57ebba1b3cc31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Larger Case.fbx using Guid(663a9601d0ae2274a9c57ebba1b3cc31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7f936b08962cf1fa22010a99b2d3dd8') in 0.028883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/L-Shaped Desk.fbx
+  artifactKey: Guid(c8dce477da05e754e8e912991abfd95f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/L-Shaped Desk.fbx using Guid(c8dce477da05e754e8e912991abfd95f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '56b1b7188d37127de86a8c0aed048b81') in 0.034085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Lamp.fbx
+  artifactKey: Guid(ec528ebcec49801448f0e686818cdeff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Lamp.fbx using Guid(ec528ebcec49801448f0e686818cdeff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9d69991da7273e94f2914829ba8d70f5') in 0.025723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.018000 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/toy_001.fbx
+  artifactKey: Guid(ed42e3e83a1505c46be371032c205b55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/toy_001.fbx using Guid(ed42e3e83a1505c46be371032c205b55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd1622f903d54f61a4b28246a7b92a85e') in 0.027648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/dumbbell_002.fbx
+  artifactKey: Guid(cd560a8cb8bd1ec4fb3267ac9441df28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/dumbbell_002.fbx using Guid(cd560a8cb8bd1ec4fb3267ac9441df28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6e8e79d9e29ff969008b4c76182cba1') in 0.026045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/training_item_002.fbx
+  artifactKey: Guid(4f99996cfa872bf42a2af32a1d158fd7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/training_item_002.fbx using Guid(4f99996cfa872bf42a2af32a1d158fd7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '31b98feee43c3d7fd884b8c891638781') in 0.029978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/toy_002.fbx
+  artifactKey: Guid(50fbd10abb1bf674981c5e42d73e5f3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/toy_002.fbx using Guid(50fbd10abb1bf674981c5e42d73e5f3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e89a598bdea8ff1bbd32a87dae4c177b') in 0.028011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/ketchup_001.prefab
+  artifactKey: Guid(5895ab0d93729844eb987d6034e2908c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/ketchup_001.prefab using Guid(5895ab0d93729844eb987d6034e2908c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '76d3c6e06dc81a812e9318dcac79174b') in 0.025268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/camera_001.prefab
+  artifactKey: Guid(74ecb4ff10fc70546aa59fc2118a8502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/camera_001.prefab using Guid(74ecb4ff10fc70546aa59fc2118a8502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f81650bb3e525faa757401373e5def76') in 0.021365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/office_table_001.prefab
+  artifactKey: Guid(70f2476d20751ab40955cefa08b6f978) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/office_table_001.prefab using Guid(70f2476d20751ab40955cefa08b6f978) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f732b9381842190a39332bf4debd469c') in 0.023271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Scenes/Overview.unity
+  artifactKey: Guid(27d7b17fd905ee14bbda04eafd7b0817) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Scenes/Overview.unity using Guid(27d7b17fd905ee14bbda04eafd7b0817) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bfb151f6698571e9189984c56ff2b910') in 0.012918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Prefabs/fridge_001.prefab
+  artifactKey: Guid(a457d02d5bf10c9459386d5931ca3a94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Prefabs/fridge_001.prefab using Guid(a457d02d5bf10c9459386d5931ca3a94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e50ebe989207ffc1db15b5f1dfe53e8') in 0.022750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/door_frame_001.fbx
+  artifactKey: Guid(fa80f29fe098e7349bad09b60a204cb8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/door_frame_001.fbx using Guid(fa80f29fe098e7349bad09b60a204cb8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5b2c0fe2a52fd53e7ee22a89f0172d2f') in 0.029745 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Furniture_FREE/Meshes/kitchen_sink_001.fbx
+  artifactKey: Guid(627220fed965f4544a5a91566c9995d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Furniture_FREE/Meshes/kitchen_sink_001.fbx using Guid(627220fed965f4544a5a91566c9995d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6a97362259a6a56efda7e91581b0b699') in 0.021761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.770206 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters
+  artifactKey: Guid(e0a60ad787a10ed459ebba2a01c8abbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters using Guid(e0a60ad787a10ed459ebba2a01c8abbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e39a97b868f870728f836c67697ac009') in 0.017369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Female 4.prefab
+  artifactKey: Guid(bda9b0031f8f38e4e98e7780f1fea9b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Female 4.prefab using Guid(bda9b0031f8f38e4e98e7780f1fea9b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7715851b4c60d85f538c9502d8522efa') in 0.024317 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 3.mat
+  artifactKey: Guid(f8709670b974bb34b9bb5bde311063da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 3.mat using Guid(f8709670b974bb34b9bb5bde311063da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c0ef3cd654324f278cc7832b00f0c2b9') in 0.019737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 1.mat
+  artifactKey: Guid(e3c92db89668ebb439f67832a852a3b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 1.mat using Guid(e3c92db89668ebb439f67832a852a3b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3a9bc410b2a16135119e28b7ddfaa191') in 0.018743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 2.mat
+  artifactKey: Guid(17f1bd9c4bd45454ebf9855e7dfda148) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 2.mat using Guid(17f1bd9c4bd45454ebf9855e7dfda148) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c41e71ae442998cfebb02ae89360779c') in 0.019355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Female 3.prefab
+  artifactKey: Guid(59b9fc048e4b5184bbd6bb8efc356091) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Female 3.prefab using Guid(59b9fc048e4b5184bbd6bb8efc356091) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e3a3cef439ffb261639a29bdfce623f0') in 0.023255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 142
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 2.prefab
+  artifactKey: Guid(25ff9301fb61050489c4885d05047d32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Male 2.prefab using Guid(25ff9301fb61050489c4885d05047d32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '30585735bb5520886902ccf7fde09b80') in 0.021804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 110
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Fabric 1.mat
+  artifactKey: Guid(f64b913b9c029c64686fe685362dc010) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Fabric 1.mat using Guid(f64b913b9c029c64686fe685362dc010) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '451a82eb024ef3cbf0462e939f740136') in 0.022073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Scenes/Demo.unity
+  artifactKey: Guid(b2d389981e26b0a4c82318e8f7bab258) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Scenes/Demo.unity using Guid(b2d389981e26b0a4c82318e8f7bab258) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c7476cd347e00a4afc49c6e3b2266d7a') in 0.016609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters
+  artifactKey: Guid(a8efad8ac13f7114b900a1b87053a680) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters using Guid(a8efad8ac13f7114b900a1b87053a680) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '290d6128c2dc2aeb72115d1ef9a8597f') in 0.014665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Scenes
+  artifactKey: Guid(7a5349f29e99a0a438e2eeda0eecf5ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Scenes using Guid(7a5349f29e99a0a438e2eeda0eecf5ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '77d35fd4a84619bef7130c9799206db4') in 0.013108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 2.mat
+  artifactKey: Guid(03f63bc20fb459248a4a28ac7768c324) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 2.mat using Guid(03f63bc20fb459248a4a28ac7768c324) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c032ca36bdf21bb980a498c8ba6a683f') in 0.014677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 4.prefab
+  artifactKey: Guid(1a45f8a6713981442bc18906df81a7fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Prefabs/Legacy Characters/Female 4.prefab using Guid(1a45f8a6713981442bc18906df81a7fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e848f2b24905dd54715fc308b054c6e9') in 0.019241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 106
+========================================================================
+Received Import Request.
+  Time since last request: 2.831832 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 3.mat
+  artifactKey: Guid(f8709670b974bb34b9bb5bde311063da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Skin 3.mat using Guid(f8709670b974bb34b9bb5bde311063da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f785d3d958de77b3ec7e1e34de573553') in 0.552775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 3.mat
+  artifactKey: Guid(a33ed502185220a4d97ede3de7fd9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Shirt 3.mat using Guid(a33ed502185220a4d97ede3de7fd9163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d7330c592dc398b19602df63cb9a054') in 0.018264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Chair.fbx
+  artifactKey: Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Chair.fbx using Guid(ddc350bb222a74a48b551b3a7f4f69ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5df675fb3e83edfdda03e1e3a4f73a') in 0.073206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.006797 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Black Book.fbx
+  artifactKey: Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Black Book.fbx using Guid(30663d2e0eae90940b64eff3e2f719f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba25bc3e2e44a423540030c00612dc3') in 0.031608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Vase.fbx
+  artifactKey: Guid(824c8db400013dd4bb682dbbe289f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Vase.fbx using Guid(824c8db400013dd4bb682dbbe289f48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf32f3aa27ec9b7b141c4aad39bde37') in 0.028665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.240722 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Flower.fbx
+  artifactKey: Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Blue Flower.fbx using Guid(049261c380654ce41a3962a1e1c2d0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e4986e7272842939ed9ce63d0ca850') in 0.033650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Keyboard.fbx
+  artifactKey: Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Gaming Keyboard.fbx using Guid(a06b162f44b643c4d9c840b2c07435f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d95b69bb05445df884fd1e7477a0b8a') in 0.040862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.217332 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/L-Shaped Couch.fbx
+  artifactKey: Guid(c63715b0b8bef004a95d82d55cc527c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/L-Shaped Couch.fbx using Guid(c63715b0b8bef004a95d82d55cc527c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85a6372eeeca98391b832575f81595f') in 0.035927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Triple Flower.fbx
+  artifactKey: Guid(635b559c754cc8341b32a152e4059ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Triple Flower.fbx using Guid(635b559c754cc8341b32a152e4059ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d29e88e4a0d359ad41539d6574e260d') in 0.040938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.698204 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Thin Chair.fbx
+  artifactKey: Guid(78ade105789c1114f91e52abcdd9f12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Thin Chair.fbx using Guid(78ade105789c1114f91e52abcdd9f12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76dfaf98eee4ed1dbc40f2628a2ca0ea') in 0.031987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.032551 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Standart Wardrobe.fbx
+  artifactKey: Guid(67f26b897a8659d4882a7294baadc9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Standart Wardrobe.fbx using Guid(67f26b897a8659d4882a7294baadc9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddc304f315c60d61d487b7a0870af09') in 0.030393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Small Mouse.fbx
+  artifactKey: Guid(d74a36366eeaa9345a1658de0de381af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Small Mouse.fbx using Guid(d74a36366eeaa9345a1658de0de381af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff06006696fccf608b1da8d4eb784102') in 0.034868 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.020916 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Lamp.fbx
+  artifactKey: Guid(ec528ebcec49801448f0e686818cdeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Lamp.fbx using Guid(ec528ebcec49801448f0e686818cdeff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aad8a387a5d92c99a02d9584289adda') in 0.029834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Hair 1.mat
+  artifactKey: Guid(a4b9d3f58b80099439bedb92279c3590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Hair 1.mat using Guid(a4b9d3f58b80099439bedb92279c3590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fcee15d4ed6fb2e8a3c7e2e4914994') in 0.017479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Hair 3.mat
+  artifactKey: Guid(5605e5920a541bf408757aac3099af95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Distant Lands/Free Characters/Contents/Materials/Hair 3.mat using Guid(5605e5920a541bf408757aac3099af95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c8d2e2816e59a32556c33fd566362a') in 0.019114 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ImportedArtAssets/Low Poly Furniture/Models/Nightstand.fbx
+  artifactKey: Guid(5bc0e5fdfe70ab8409a03ded63e6af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedArtAssets/Low Poly Furniture/Models/Nightstand.fbx using Guid(5bc0e5fdfe70ab8409a03ded63e6af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5ad903158ce5c1268d4b0240e02cb0') in 0.029417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
